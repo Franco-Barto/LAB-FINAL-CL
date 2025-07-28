@@ -1,0 +1,17 @@
+LTspice 24.1.8 for Windows
+Circuit: C:\Users\gerva\Documents\GitHub\LAB-FINAL-CL\Li-Ion-2s1p-carga.net
+Start Time: Mon Jul 28 13:45:45 2025
+Options: gmin=1e-12 abstol=1n reltol=0.1
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+abstol = 1e-09
+reltol = 0.1
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.089 seconds.
+
+Files loaded:
+C:\Users\gerva\Documents\GitHub\LAB-FINAL-CL\Li-Ion-2s1p-carga.net
+
